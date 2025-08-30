@@ -26,7 +26,7 @@ This project is completely **static** (no JavaScript) and focuses on creating a 
 ## 📸 Screenshots  
 
 ### Homepage View  
-![Homepage Screenshot]()  
+![Homepage Screenshot](https://github.com/umeshjat7866/Shopcart_website/blob/44af90de10530627a0baf97e911ab31dc86424f4/front.png)  
 
 ### Product Grid View  
 ![Product Screenshot]()  
@@ -59,7 +59,3 @@ Contributions are welcome! Feel free to fork the repo, improve the UI, and submi
 👨‍💻 Author
 
 Built with ❤️ by Umesh Maanju
-
-
-├── /assets             # Images, icons, product photos
-└── /screenshots        # Project screenshots
